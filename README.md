@@ -1,8 +1,10 @@
-# React + Vite
+# Rocketnotes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta é a interface de uma aplicação web que será utilizada para realizar o login do usuário e gerenciar notas e links importantes, sendo possível incluir tags e realizar pesquisas para localizar uma nota específica.
 
-Currently, two official plugins are available:
+*This is the interface of a web application that will be used to perform user login and manage important notes and links, allowing the inclusion of tags and conducting searches to locate a specific note.*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Tecnologias utilizadas | *Technologies used*:
+
+- __*Vite*__
+- __*React*__

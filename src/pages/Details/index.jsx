@@ -7,7 +7,8 @@ export function Details() {
       <h1>Details</h1>
       <p>Esta é a página Details!</p>
       
-      <Button />
+      <Button title="Voltar"/>
+
     </Container>
   );
 }

@@ -8,3 +8,6 @@ Esta é a interface de uma aplicação web que será utilizada para realizar o l
 
 - __*Vite*__
 - __*React*__
+- __*Styled Components*__
+
+

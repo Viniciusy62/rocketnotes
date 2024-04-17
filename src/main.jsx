@@ -10,7 +10,8 @@ import theme from "./styles/theme";
 // import { Home } from "./pages/Home";
 // import { SignIn } from "./pages/SignIn";
 // import { SignUp } from "./pages/SignUp";
-import { Profile } from "./pages/Profile";
+// import { Profile } from "./pages/Profile";
+import { New } from "./pages/New";
 
 
 ReactDOM.createRoot(document.getElementById("root")).render(
@@ -21,7 +22,8 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       {/* <Home /> */}
       {/* <SignIn /> */}
       {/* <SignUp /> */}
-      <Profile />
+      {/* <Profile /> */}
+      <New />
     </ThemeProvider>
   </React.StrictMode>
 );
